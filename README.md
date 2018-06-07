@@ -20,6 +20,8 @@ The script required a user password for copying a folder into Xcode.app.
 2. Unzip `12.0 (16A5288q).zip` 
 3. Copy unzipped folder into `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`.
 
+❗️Don't forget to restart Xcode.
+
 ## Author
 
 Artem Novichkov, email@artemnovichkov.com
