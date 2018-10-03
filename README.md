@@ -1,5 +1,5 @@
 ## Device Support
-![iOS 12 beta](https://img.shields.io/badge/iOS-12%20beta%20-green.svg)
+![iOS 12.1](https://img.shields.io/badge/iOS-12.1%20-green.svg)
 
 Have updated iPhone, but don't want to update Xcode? Forget DeviceSupport path every time?
 
