@@ -1,5 +1,5 @@
 ## Device Support
-![iOS 12.1](https://img.shields.io/badge/iOS-12.1%20-green.svg)
+![iOS 12.2](https://img.shields.io/badge/iOS-12.2%20-green.svg)
 
 Have updated iPhone, but don't want to update Xcode? Forget DeviceSupport path every time?
 
@@ -17,7 +17,7 @@ The script required a user password for copying a folder into Xcode.app.
 ### Manual
 
 1. Clone the repo
-2. Unzip `12.0 (16A5288q).zip` 
+2. Unzip `12.2 (16E226).zip` 
 3. Copy unzipped folder into `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`.
 
 ❗️Don't forget to restart Xcode.
