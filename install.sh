@@ -2,9 +2,8 @@
 
 set -euo pipefail
 
-NAME="13.2.zip"
 cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
-curl https://raw.githubusercontent.com/artemnovichkov/device-support/master/13.2.zip -o "${NAME}"
-unzip "${NAME}"
-rm "${NAME}"
+curl "https://raw.githubusercontent.com/artemnovichkov/device-support/master/$1.zip" -o "$1"
+unzip "$1"
+rm "$1"
 echo "Done! Don't forget to restart Xcode."
