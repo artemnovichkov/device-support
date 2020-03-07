@@ -1,7 +1,7 @@
 ## Device Support
 ![iOS 13.2](https://img.shields.io/badge/iOS-13.2%20-green.svg)
 
-Have updated iPhone, but don't want to update Xcode? Forget DeviceSupport path every time?
+Have updated iOS, but don't want to update Xcode? Forget DeviceSupport path every time?
 
 
 ## Installation
@@ -10,7 +10,7 @@ Have updated iPhone, but don't want to update Xcode? Forget DeviceSupport path e
 
 Run the command in your terminal:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/artemnovichkov/device-support/master/install.sh | sudo sh
+curl -fsSL https://raw.githubusercontent.com/artemnovichkov/device-support/master/install.sh | sudo sh 13.2
 ```
 The script required a user password for copying a folder into Xcode.app.
 
